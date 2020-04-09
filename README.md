@@ -51,7 +51,7 @@ Operator EXISTS dan NOT EXISTS digunakan pada correlated subquery untuk memeriks
 ![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20not%20exist.png)
 
 
-Subquery dan Fungsi Agregat 
+5.Subquery dan Fungsi Agregat 
  
 Operasi-operasi pada subquery juga dapat melibatkan fungsi-fungsi agregat. 
  
@@ -59,6 +59,19 @@ Operasi-operasi pada subquery juga dapat melibatkan fungsi-fungsi agregat.
 ![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20%26%20fungsi%20agregat.png)
 
 
-Subquery dan Join 
+6.Subquery dan Join 
  
 Dalam beberapa kasus sederhana, fungsionalitas subquery dan join dapat dipertukarkan. Dengan kata lain, keduanya dapat digunakan untuk menyelesaikan persoalan yang sama. 
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20%26%20join.png)
+
+
+TUGAS PRAKTIKUM 
+
+1. Dapatkan data mahasiswa yang alamatnya sama dengan mahasiswa dengan nim102, tidak termasuk mahasiswa tersebut. 
+
+2. Dapatkan matakuliah yang tidak diajar oleh dosen terdaftar. 
+
+3. Dapatkan data dosen yang mengajar matakuliah dengan sks lebih kecil dari sembarang sks. 
+
+4. Dapatkan nim, nama, dan alamat mahasiswa yang tempat tinggalnya sama dengan dosen yang mengajar matakuliah dengan jumlah sks terbanyak.  

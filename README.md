@@ -46,7 +46,7 @@ Subquery kolom ganda (atau tabel) juga menggunakan operator komparasi IN, ANY / 
  
 Operator EXISTS dan NOT EXISTS digunakan pada correlated subquery untuk memeriksa apakah subquery mengembalikan hasil atau tidak. Apabila subquery mengembalikan hasil, EXISTS akan mengembalikan nilai true. Begitu pula sebaliknya, jika tidak mengembalikan hasil. 
 
-![AltText]https://github.com/Larasati11/Subquery/blob/master/subquery%20exist.png
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20exist.png)
 
 
 

@@ -75,3 +75,11 @@ TUGAS PRAKTIKUM
 3. Dapatkan data dosen yang mengajar matakuliah dengan sks lebih kecil dari sembarang sks. 
 
 4. Dapatkan nim, nama, dan alamat mahasiswa yang tempat tinggalnya sama dengan dosen yang mengajar matakuliah dengan jumlah sks terbanyak.  
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20prak%201.png)
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20prak%202.png)
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20prak%203.png)
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20prak%204.png)

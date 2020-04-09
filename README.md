@@ -51,3 +51,14 @@ Operator EXISTS dan NOT EXISTS digunakan pada correlated subquery untuk memeriks
 ![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20not%20exist.png)
 
 
+Subquery dan Fungsi Agregat 
+ 
+Operasi-operasi pada subquery juga dapat melibatkan fungsi-fungsi agregat. 
+ 
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20%26%20fungsi%20agregat.png)
+
+
+Subquery dan Join 
+ 
+Dalam beberapa kasus sederhana, fungsionalitas subquery dan join dapat dipertukarkan. Dengan kata lain, keduanya dapat digunakan untuk menyelesaikan persoalan yang sama. 

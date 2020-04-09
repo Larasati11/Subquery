@@ -3,4 +3,16 @@ Subquery (disebut juga subselect atau nested select / query atau inner- select) 
 
 1. Scalar Subquery 
 Subquery baris tunggal (scalar) hanya mengembalikan hasil satu baris data.Subquery baris tunggal dapat menggunakan operator baris tunggal =, >, >=, <, <=, atau <>. 
+
+
 ![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20scalar.png)
+
+2.  Multiple-Row Subquery 
+ 
+Pada subquery ini, kita menggunakan operator komparasi IN, ANY / SOME, atau ALL. 
+Operator IN 
+Operator IN memiliki arti : sama dengan member di dalam list
+
+
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20in.png)
+ 

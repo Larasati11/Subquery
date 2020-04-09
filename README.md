@@ -48,6 +48,6 @@ Operator EXISTS dan NOT EXISTS digunakan pada correlated subquery untuk memeriks
 
 ![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20exist.png)
 
-
+![AltText](https://github.com/Larasati11/Subquery/blob/master/subquery%20not%20exist.png)
 
 
